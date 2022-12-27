@@ -1,4 +1,4 @@
-# Minecraft GUI Framework
+# Minecraft Slowcasting (Projectile Raycasting)
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-2-orange.svg?)](#contributors-)
 [![Discord](https://img.shields.io/badge/Discord-⛓-blue.svg)](https://discord.gg/VzjQ7kFKqD)
@@ -30,7 +30,6 @@ The main modifications I suggest is to add / remove pages under functions/ui/ref
 <table>
   <tr>
     <td align="center"><a href="https://github.com/CloudWolfYT"><img src="https://avatars.githubusercontent.com/u/64243799?v=4" width="100px;" alt=""/><br /><sub><b>Cloud Wolf</b></sub></a><br /><a href="#" title="Project Creator">🔨</a></td>
-    <td align="center"><a href="https://gist.github.com/misode"><img src="https://avatars.githubusercontent.com/u/17352009?v=4" width="100px;" alt=""/><br /><sub><b>Misode</b></sub></a><br /><a href="#" title="Invisible Minecarts">💡</a></td>
   </tr>
 </table>
 
