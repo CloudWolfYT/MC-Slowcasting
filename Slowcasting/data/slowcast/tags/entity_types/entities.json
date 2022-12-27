@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:marker",
+    "minecraft:armor_stand",
+    "minecraft:item"
+  ]
+}
